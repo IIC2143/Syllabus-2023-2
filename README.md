@@ -1,4 +1,4 @@
-# IIC2143 - Ingeniería de Software 2024-1
+# IIC2143 - Ingeniería de Software 2023-2
 
 Bienvenido al sitio web del curso Ingeniería de Software. En esta página podrás encontrar la información administrativa del curso y en el repositorio podrás encontrar:
 * Los enunciados de las entregas.
@@ -12,8 +12,8 @@ Tambien contamos con un repositorio dedicado a lo que es el _SetUp_ del curso, e
 
 | Nombre                      | Email                   | Github                                         |
 |-----------------------------|-------------------------|------------------------------------------------|
-| Felipe Muñoz (Docencia) | felipe.munoz.moraga@uc.cl  | [@FelipeMunozMoraga](https://github.com/FelipeMunozMoraga)     |
-| José Valdivia (Proyecto)   | jtvaldivia@uc.cl | [@jtvaldivia](https://github.com/jtvaldivia) |
+| Nicole Caballero (Docencia) | nicole.caballero@uc.cl  | [@nicolecll](https://github.com/nicolecll)     |
+| Martín Orrego (Proyecto)   | martinorregosilva@uc.cl | [@OrregoSilva](https://github.com/OrregoSilva) |
 
 
 ### Ayudantes
@@ -21,25 +21,22 @@ Tambien contamos con un repositorio dedicado a lo que es el _SetUp_ del curso, e
 
 | Nombre                      | Email                     | Github                                                               |
 |-----------------------------|---------------------------|----------------------------------------------------------------------|
-| Valeria Nazal | valeria.nazal@uc.cl | [@valerianazal](https://github.com/valerianazal) |
-| Cristobal Perez-Cotapos | cprezcotapos@uc.cl | [@CristobalPerez-Cotapos](https://github.com/CristobalPerez-Cotapos) |
+| Raimundo Escalona | rjescalona@uc.cl | [@RaiEscalona](https://github.com/RaiEscalona) |
+| José Tomas Valdivia | jtvaldivia@uc.cl | [@jtvaldivia](https://github.com/jtvaldivia) |
 | Nicolás Fernández | nifernandez@uc.cl | [@TheMightyTsar](https://github.com/TheMightyTsar) |
-| Ignacio Sanhueza | ignaciosanhueza233@uc.cl | [@ignacio-sp](https://github.com/ignacio-sp) |
-| Sofia Rencoret | srencoret@uc.cl | [@Srencoret](https://github.com/Srencoret) |
+| Benjamin Gonzalez | bgonzalezb@uc.cl | [@Benyo27](https://github.com/Benyo27) |
+| Valentina Massé | valentina.masse@uc.cl | [@valemasse](https://github.com/valemasse) |
 | Trinidad Gil | mtgil@uc.cl | [@mtgil2](https://github.com/mtgil2) |
-| Cristobal Merino | cmerinolarrain@uc.cl | [@c0bal](https://github.com/c0bal) |
-| Shantal-Marie Fabri | sfabri1@uc.cl | [@shantifabri](https://github.com/shantifabri) |
+| Nicolas Olmos | nicolas.olmos@uc.cl | [@NicolasOlmosQuiroga](https://github.com/NicolasOlmosQuiroga) |
+| Felipe Muñoz | felipe.munoz.moraga@uc.cl | [@FelipeMunozMoraga](https://github.com/FelipeMunozMoraga) |
 | Trinidad Bravo | tsbravo@uc.cl | [@tsbravo](https://github.com/tsbravo) |
 | Constanza Huerta | constanzamalia@uc.cl | [@ConiiiH](https://github.com/ConiiiH) |
-| Noam Tanaka | noam.vieira@uc.cl | [@noamsito](https://github.com/noamsito) |
-| Valentina Campaña | valentinacamph@uc.cl| [@aerotecnia99](https://github.com/aerotecnia99) |
+| Joaquín Domínguez | joaquin.dominguez@uc.cl | [@joaquindm02](https://github.com/joaquindm02) |
+| Ignacio Sanhueza | ignaciosanhueza233@uc.cl | [@ignacio-sp](https://github.com/ignacio-sp) |
 | Jorge De Goyeneche | jorgedg611@uc.cl | [@jorgedg6](https://github.com/jorgedg6) |
-| Daniel Larco | dlarco@uc.cl | [@danilarco](https://github.com/danilarco) |
+| Jean Philipe Fuentes | jhfuentes@uc.cl | [@jean-Philipe](https://github.com/jean-Philipe) |
 | Pablo Bustos | pablo.bustos@uc.cl | [@pablobustose](https://github.com/pablobustose) |
 | Julio Huerta | jihuerta@uc.cl | [@Julius9](https://github.com/Julius9) |
-| Alvaro Romero | Aaromero1@uc.cl | [@Aaromero1](https://github.com/Aaromero1) |
-| Juan Gil | Mail | [@](https://github.com/Aaromero1) |
-| Constanza Ahumada | mail | [@](https://github.com/Aaromero1) |
 
 
 ## Foro
